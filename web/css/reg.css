@@ -1,0 +1,48 @@
+.wrapper {
+    margin: 0 auto;
+    padding: 0px 0;
+    width: 980px;
+}
+
+.cf {
+    zoom: 1;
+}
+
+.f4 {
+    font-size: 18px;
+    font-family: "Hiragino Sans GB", " Microsoft YaHei", "WenQuanYi Micro Hei", arial, sans-serif;
+}
+
+.site-name {
+    line-height: 36px;
+    color: #666;
+}
+
+.content {
+    margin: 10px;
+    vertical-align: middle;
+}
+
+.site-delimiter {
+    margin: 6px 15px 0;
+    height: 50px;
+    border-right: 1px solid #eee;
+}
+
+header {
+    border-bottom: 2px solid #2bb8aa;
+    min-width: 980px;
+}
+
+body {
+    font: 400 14px/1.5 "Hiragino Sans GB", "WenQuanYi Micro Hei", tahoma, sans-serif;
+    color: #666;
+    padding: 0;
+    margin: 0;
+    vertical-align: middle;
+}
+
+.fromclass {
+    display: block;
+    margin: 0 auto;
+}
